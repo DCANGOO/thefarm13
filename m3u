@@ -41,6 +41,8 @@ http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/82393?checkedby:iptvcat.com
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/82394?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A Fazenda CAM 8 (P)
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/82395?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="afazenda13" group-title="A Fazenda 13",AFAZENDA 13 camera principal
+https://newedge.eu-central-1.edge.mycdn.live/live/afazenda24hras/afazenda24hras_2000/index.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37130?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FHD
