@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="afazenda13" group-title="A Fazenda 13",AFAZENDA 13 camera principal
 https://newedge.eu-central-1.edge.mycdn.live/live/afazenda24hras/afazenda24hras_2000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3e33beb4-d8e8-11e9-a4df-003048de22c4" parent-code="" group-title="A Fazenda 13", A FAZENDA
+http://api.magiaiptv.com/live/800195/918609/p3_afazenda
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/dd13c837-3bd5-4072-87f0-3061a0778523" parent-code="" group-title="CanaisTop", 007 Coleção
 http://api.magiaiptv.com/live/800195/918609/p1_007_Colecao
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/dd8bb9c7-3bfc-4ca2-8884-5116bcabf084" parent-code="" group-title="CanaisTop", ABC NEWS (US)
@@ -10,8 +12,6 @@ http://api.magiaiptv.com/live/800195/918609/m3_wVqC3dUDgmaqwuCK
 http://api.magiaiptv.com/live/800195/918609/p1_ae
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ff905891-66c9-4811-bfcc-a7d2267b1f2a" parent-code="" group-title="CanaisTop", A&E+
 http://api.magiaiptv.com/live/800195/918609/p3_ae_265
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3e33beb4-d8e8-11e9-a4df-003048de22c4" parent-code="" group-title="CanaisTop", A FAZENDA
-http://api.magiaiptv.com/live/800195/918609/p3_afazenda
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/74c4a5b6-566c-492c-a21c-544fe4692eb7" parent-code="" group-title="CanaisTop", Agro HD
 http://api.magiaiptv.com/live/800195/918609/m2_fqENpMkneTxmancB_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f82626f1-9de8-4bfd-a929-1e60199f5c7e" parent-code="" group-title="CanaisTop", AgroMais
