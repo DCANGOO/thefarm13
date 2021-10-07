@@ -4,8 +4,6 @@
 https://newedge.eu-central-1.edge.mycdn.live/live/afazenda24hras/afazenda24hras_2000/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3e33beb4-d8e8-11e9-a4df-003048de22c4" parent-code="" group-title="A Fazenda 13", A FAZENDA
 http://api.magiaiptv.com/live/800195/918609/p3_afazenda
-#EXTINF: -1 tvg-logo="https://imgur.com/P9EF9dx.png" group-title="A fazenda 13",A FAZENDA 13²
-https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/dd13c837-3bd5-4072-87f0-3061a0778523" parent-code="" group-title="CanaisTop", 007 Coleção
 http://api.magiaiptv.com/live/800195/918609/p1_007_Colecao
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/dd8bb9c7-3bfc-4ca2-8884-5116bcabf084" parent-code="" group-title="CanaisTop", ABC NEWS (US)
