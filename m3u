@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 SD" group-title="A FAZENDA 13", a fazenda
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 SD" group-title="A FAZENDA 13", A Fazenda
 http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 HD"  group-title="A FAZENDA 13", a fazenda
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 HD"  group-title="A FAZENDA 13", A Fazenda
 http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981407.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 01"  group-title="A FAZENDA 13", A fazenda
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 01"  group-title="A FAZENDA 13", A Fazenda
 http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981417.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 02"  group-title="A FAZENDA 13", a fazenda
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 02"  group-title="A FAZENDA 13", A Fazenda
 http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 03"  group-title="A FAZENDA 13" 
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 03"  group-title="A FAZENDA 13", A Fazenda
 http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981419.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 04"  group-title="A FAZENDA 13" 
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 04"  group-title="A FAZENDA 13", A Fazenda 
 http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981420.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 05"  group-title="A FAZENDA 13"
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 05"  group-title="A FAZENDA 13", A Fazenda
 http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981421.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 06" group-title="A FAZENDA 13"
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 06" group-title="A FAZENDA 13", A Fazenda
 url=http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981422.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 07" group-title="A FAZENDA 13"
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 07" group-title="A FAZENDA 13", A Fazenda
 url=http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 08" group-title="A FAZENDA 13"
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 08" group-title="A FAZENDA 13", A Fazenda
 url=http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981424.m3u8
 
 #EXTINF:-1 tvg-name="A Fazenda [Sinal 1] FHD" group-title="FHD",A Fazenda [Sinal 1] FHD
