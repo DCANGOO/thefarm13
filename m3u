@@ -8,7 +8,7 @@ http://api.magiaiptv.com/live/800261/138645/m3_wVqC3dUDgmaqwuCK
 http://api.magiaiptv.com/live/800261/138645/p1_ae
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ff905891-66c9-4811-bfcc-a7d2267b1f2a" parent-code="" group-title="CanaisTop", A&E+
 http://api.magiaiptv.com/live/800261/138645/p3_ae_265
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3e33beb4-d8e8-11e9-a4df-003048de22c4" parent-code="" group-title="Fazenda", A FAZENDA
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3e33beb4-d8e8-11e9-a4df-003048de22c4" parent-code="" group-title="Fazenda", A FAZENDA
 http://api.magiaiptv.com/live/800261/138645/p3_afazenda
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/74c4a5b6-566c-492c-a21c-544fe4692eb7" parent-code="" group-title="CanaisTop", Agro HD
 http://api.magiaiptv.com/live/800261/138645/m2_fqENpMkneTxmancB_720p
