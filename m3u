@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/images/2607a8e600ad238fb3b51509c2b96f09.png" group-title="A FAZENDA 2021",A FAZENDA 13 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/images/2607a8e600ad238fb3b51509c2b96f09.png" group-title="A FAZENDA 2021",A FAZENDA 13 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 SD" group-title="A FAZENDA 13", a fazenda
+http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 HD"  group-title="A FAZENDA 13", a fazebda
+http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981407.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/images/0608083c2b9e979aebb50ab50ced920d.png" group-title="ESPORTE",HBO MAX CHAMPIONS LEAGUE 1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981414.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/images/0608083c2b9e979aebb50ab50ced920d.png" group-title="ESPORTE",HBO MAX CHAMPIONS LEAGUE 2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981415.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BAND FHD" tvg-logo="http://logocanais.ddns.net/Logo/Band.png" group-title="CANAIS ABERTOS",BAND FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981416.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png" group-title="A FAZENDA 2021",A FAZENDA 13 - CAM 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981417.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 02" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/images/2607a8e600ad238fb3b51509c2b96f09.png" group-title="A FAZENDA 2021",A FAZENDA 13 - CAM 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 03" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/images/2607a8e600ad238fb3b51509c2b96f09.png" group-title="A FAZENDA 2021",A FAZENDA 13 - CAM 03
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 01"  group-title="A FAZENDA 13", A fazenda
+http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981417.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 02"  group-title="A FAZENDA 13", a fazenda
+http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 03"  group-title="A FAZENDA 13" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/images/2607a8e600ad238fb3b51509c2b96f09.png" group-title="A FAZENDA 2021",A FAZENDA 13 - CAM 03
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981419.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 04" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/images/2607a8e600ad238fb3b51509c2b96f09.png" group-title="A FAZENDA 2021",A FAZENDA 13 - CAM 04
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 04"  group-title="A FAZENDA 13" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/images/2607a8e600ad238fb3b51509c2b96f09.png" group-title="A FAZENDA 2021",A FAZENDA 13 - CAM 04
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981420.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 05" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/images/2607a8e600ad238fb3b51509c2b96f09.png" group-title="A FAZENDA 2021",A FAZENDA 13 - CAM 05
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 05"  group-title="A FAZENDA 13" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/images/2607a8e600ad238fb3b51509c2b96f09.png" group-title="A FAZENDA 2021",A FAZENDA 13 - CAM 05
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981421.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 13 - CAM 06" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/images/2607a8e600ad238fb3b51509c2b96f09.png" group-title="A FAZENDA 2021",A FAZENDA 13 - CAM 06
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Super TV;url=http://vipeiptv.com:25461/live/erinaldo45/erinaldo45/981422.m3u8
